@@ -1,3 +1,0 @@
-# **Home**
-
-This wiki is dedicated to mathimatical documentation. While all mathamatical concepts are of interest in this wiki; their is a focus on computational mathmatics, mathamatical modeling, data science, physical mathmatics, and number theory. But once again; all mathamatical related things are welcomed on this wiki. Anyone who has knowledge of a certain type of math and wants to contribute is encouraged to do so. The wiki can be edited on its github page; a contributer will swiftly aprove your contribution to the wiki. The github page is not (mostly) intended for support; instead if support is nessacary please use resources on this website to assist you. If further assistance is needed then open a issue on the github page.
