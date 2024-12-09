@@ -3,6 +3,7 @@ description: >-
   A list of tools for math and this wiki. If a tool is used in an article
   (unless the tool has a built in way of doing this are its obvious eg: Desmos
   with its edit page in the embed); tell the user.
+icon: wrench
 ---
 
 # Tools
