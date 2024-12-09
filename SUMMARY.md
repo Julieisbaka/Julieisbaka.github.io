@@ -11,4 +11,3 @@
       * [Iteration functions](functions/function-catalog/special-functions/iteration-functions.md)
 * [Sigma function](sigma-function.md)
 * [Interactive notebook](interactive-notebook.md)
-* [Page 1](page-1.md)
