@@ -1,6 +1,6 @@
 ---
 icon: message-bot
-description: An interactive math notebook and playground.
+description: Get AI assistance.
 ---
 
 # Ask AI
