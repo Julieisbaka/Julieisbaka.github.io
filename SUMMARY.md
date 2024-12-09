@@ -12,3 +12,4 @@
 * [Sigma function](sigma-function.md)
 * [Ask AI](ask-ai.md)
 * [Euler's identity](eulers-identity.md)
+* [Interactive notebook](interactive-notebook.md)
