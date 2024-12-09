@@ -1,5 +1,6 @@
 ---
 description: Contains a list of non regular or special functions.
+icon: abacus
 ---
 
 # Special functions

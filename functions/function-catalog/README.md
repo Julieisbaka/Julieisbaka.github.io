@@ -1,5 +1,6 @@
 ---
 description: List of functions.
+icon: function
 ---
 
 # Function catalog
