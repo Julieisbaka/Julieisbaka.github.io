@@ -4,5 +4,6 @@
   * [Rules and beleifs](readme/rules-and-beleifs.md)
   * [Tools](readme/tools.md)
 * [Functions](functions/README.md)
-  * [Derivatives](functions/derivatives.md)
   * [Inverse functions](functions/inverse-functions.md)
+  * [Derivatives](functions/derivatives.md)
+  * [Function catalog](functions/function-catalog.md)

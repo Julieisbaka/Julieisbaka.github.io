@@ -1,6 +1,6 @@
 ---
-description: A fundamental principle of mathematics.
 icon: function
+description: A fundamental principle of mathematics.
 ---
 
 # Functions
@@ -26,7 +26,7 @@ x+x \equiv 2x, always.
 $$
 
 {% hint style="info" %}
-The notation of f(x) with a superscript of a minus sign or negative one is generally used to notate the inverse of a function.
+The notation of f(x) with a superscript of a minus sign or negative one is generally used to notate the [inverse of a function.](inverse-functions.md)
 {% endhint %}
 
 Let the function f(x) = y (as it is in the standard form)
@@ -39,10 +39,8 @@ $$
 
 The inverse can be found by swapping the x and y variables and then solving for y in terms of x.
 
-
-
 $$
 f\prime = \delta f(x),f\prime=\frac{d}{dx}f(x)
 $$
 
-The above notation is a notation for derivatives. The first derivative of a function (and second of the input variable) is equal to the secant line (slope). The first derivative of x is the measurement of the rate of change of the function, represented by d/dx, and is found by finding the equation of the tangent line (the line tangent to the function). The most primal examples of derivatives are distance and motion.
+The above notation is a notation for [derivatives.](derivatives.md) The first derivative of a function (and second of the input variable) is equal to the secant line (slope). The first derivative of x is the measurement of the rate of change of the function, represented by d/dx, and is found by finding the equation of the tangent line (the line tangent to the function). The most primal examples of derivatives are distance and motion.
