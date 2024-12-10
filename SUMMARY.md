@@ -1,16 +1,3 @@
 # Table of contents
 
-* [Home](README.md)
-  * [Rules and beleifs](readme/rules-and-beleifs.md)
-  * [Tools](readme/tools.md)
-  * [Interactive notebook](readme/interactive-notebook.md)
-* [Functions](functions/README.md)
-  * [Inverse functions](functions/inverse-functions.md)
-  * [Derivatives](functions/derivatives.md)
-  * [Function catalog](functions/function-catalog/README.md)
-    * [Special functions](functions/function-catalog/special-functions/README.md)
-      * [Iteration functions](functions/function-catalog/special-functions/iteration-functions.md)
-* [Sigma function](sigma-function.md)
-* [Euler's identity](eulers-identity.md)
-* [Leibniz formula for pi](leibniz-formula-for-pi.md)
-* [logarithmic function](logarithmic-function.md)
+* [Page](README.md)
