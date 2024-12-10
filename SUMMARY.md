@@ -10,6 +10,5 @@
     * [Special functions](functions/function-catalog/special-functions/README.md)
       * [Iteration functions](functions/function-catalog/special-functions/iteration-functions.md)
 * [Sigma function](sigma-function.md)
-* [Ask AI](ask-ai.md)
 * [Euler's identity](eulers-identity.md)
 * [Interactive notebook](interactive-notebook.md)

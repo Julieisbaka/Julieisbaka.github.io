@@ -1,3 +1,7 @@
+---
+icon: e
+---
+
 # Euler's identity
 
 $$
