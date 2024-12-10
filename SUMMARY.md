@@ -12,3 +12,4 @@
 * [Sigma function](sigma-function.md)
 * [Euler's identity](eulers-identity.md)
 * [Interactive notebook](interactive-notebook.md)
+* [Leibniz formula for pi](leibniz-formula-for-pi.md)
