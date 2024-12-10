@@ -13,3 +13,4 @@
 * [Sigma function](sigma-function.md)
 * [Euler's identity](eulers-identity.md)
 * [Leibniz formula for pi](leibniz-formula-for-pi.md)
+* [logarithmic function](logarithmic-function.md)
