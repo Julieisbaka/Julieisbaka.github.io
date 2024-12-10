@@ -16,15 +16,3 @@ $$
 \left(1+\frac{1}{n}\right)^{\left(n\cdot\sqrt{-1}\cdot\sum_{k=0}^{\infty}\frac{\left(-1\right)^{k}}{2k+1}\right)}
 $$
 
-$$
-e^{i\pi}+1=0
-$$
-
-$$
-e^i
-$$
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
