@@ -15,3 +15,4 @@
 * [Leibniz formula for pi](leibniz-formula-for-pi.md)
 * [Triangle](triangle.md)
 * [Derivatives](derivatives.md)
+* [Wiki notebook.](wiki-notebook..md)
