@@ -20,3 +20,5 @@ The beauty of this formula is what it actually does. It connects e; the base of 
 $$
 \left(1+\frac{1}{n}\right)^{\left(n\cdot\sqrt{-1}\cdot 4(\sum_{k=0}^{\infty}\frac{\left(-1\right)^{k}}{2k+1})\right)}
 $$
+
+### Lets break down why and how this is true.
