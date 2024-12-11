@@ -3,6 +3,8 @@
 * [Home](README.md)
   * [Rules and beleifs](readme/rules-and-beleifs.md)
   * [Tools](readme/tools.md)
+  * [Wiki notebook.](readme/wiki-notebook..md)
+  * [How to wiki?](readme/how-to-wiki.md)
 * [Functions](functions/README.md)
   * [Function catalog](functions/function-catalog/README.md)
     * [Special functions](functions/function-catalog/special-functions/README.md)
@@ -15,4 +17,3 @@
 * [Leibniz formula for pi](leibniz-formula-for-pi.md)
 * [Triangle](triangle.md)
 * [Derivatives](derivatives.md)
-* [Wiki notebook.](wiki-notebook..md)
