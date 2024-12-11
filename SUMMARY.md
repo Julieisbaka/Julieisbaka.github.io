@@ -14,3 +14,4 @@
 * [Euler's identity](eulers-identity.md)
 * [Leibniz formula for pi](leibniz-formula-for-pi.md)
 * [Triangle](triangle.md)
+* [Derivatives](derivatives.md)
