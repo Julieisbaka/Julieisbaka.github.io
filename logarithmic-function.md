@@ -4,4 +4,3 @@ icon: superscript
 ---
 
 # logarithmic function
-

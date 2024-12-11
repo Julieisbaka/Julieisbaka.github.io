@@ -4,4 +4,3 @@ icon: integral
 ---
 
 # Derivatives
-

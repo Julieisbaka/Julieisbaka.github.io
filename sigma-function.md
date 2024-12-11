@@ -4,4 +4,3 @@ description: The sigma function. See Sigma notation. Summation function redirect
 ---
 
 # Sigma function
-

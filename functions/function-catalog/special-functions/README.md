@@ -16,4 +16,3 @@ icon: abacus
 * Gamma function
 * Error function
 * Whittaker function
-

@@ -4,4 +4,3 @@ icon: dash
 ---
 
 # Inverse functions
-
