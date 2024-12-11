@@ -3,7 +3,6 @@
 * [Home](README.md)
   * [Rules and beleifs](readme/rules-and-beleifs.md)
   * [Tools](readme/tools.md)
-  * [Interactive notebook](readme/interactive-notebook.md)
 * [Functions](functions/README.md)
   * [Inverse functions](functions/inverse-functions.md)
   * [Derivatives](functions/derivatives.md)
@@ -14,3 +13,4 @@
 * [Euler's identity](eulers-identity.md)
 * [Leibniz formula for pi](leibniz-formula-for-pi.md)
 * [logarithmic function](logarithmic-function.md)
+* [Traingle](traingle.md)
