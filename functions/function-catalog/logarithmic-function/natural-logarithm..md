@@ -1,5 +1,6 @@
 ---
 description: A special logarithm with a special number as its base.
+icon: tree-large
 ---
 
 # Natural logarithm.
