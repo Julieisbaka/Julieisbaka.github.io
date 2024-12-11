@@ -13,4 +13,4 @@
       * [Natural logarithm.](functions/function-catalog/logarithmic-function/natural-logarithm..md)
 * [Euler's identity](eulers-identity.md)
 * [Leibniz formula for pi](leibniz-formula-for-pi.md)
-* [Traingle](traingle.md)
+* [Triangle](triangle.md)
