@@ -7,9 +7,8 @@ description: >-
 
 # Wiki notebook.
 
-To embed JavaScript code into a GitBook page, you should utilize the Markdown's code block syntax with triple backticks and specify the language as `javascript`. Here's an example:
-
-```javascript
+```markup
+<script>
 window.DocsBotAI = window.DocsBotAI || {};
 DocsBotAI.init = function(e){
   return new Promise((t, r) => {
@@ -41,6 +40,16 @@ DocsBotAI.init = function(e){
 };
 
 DocsBotAI.init({id: "89WYBDeNDeQNHQ99Rg1T/obP4bnNXLkHYTJnHPoDG"});
-```
+document.addEventListener('DOMContentLoaded', function() {
+  const button = document.getElementById('actionButton');
+  const output = document.getElementById('output');
 
-Copy and paste
+  button.addEventListener('click', function() {
+    output.textContent = 'Button clicked!';
+  });
+});
+</script>
+
+<button id="actionButton">Click Me</button>
+<p id="output"></p>
+```
