@@ -14,3 +14,7 @@ flowchart TB
     output --> InverseFunction["InverseFunction"]
     InverseFunction --> Input
 ```
+
+$$
+(f(y)=x)=f^{-1}(x)\: if\:f(x)=y
+$$
