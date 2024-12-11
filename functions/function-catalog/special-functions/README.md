@@ -1,13 +1,13 @@
 ---
-description: Contains a list of non regular or special functions.
 icon: abacus
+description: Contains a list of non regular or special functions.
 ---
 
 # Special functions
 
 * Fresnel function
 * Bessel function
-* [Iteration functions](iteration-functions.md)
+* [Iteration functions](iteration-functions/)
 * Ackermann function
 * Heavyweight function
 * Total cost function

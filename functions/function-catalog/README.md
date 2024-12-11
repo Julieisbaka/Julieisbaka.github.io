@@ -7,7 +7,7 @@ description: List of functions.
 
 * Exponential functions
 * Rational function
-* [Logarithmic functions](../../logarithmic-function.md)
+* [Logarithmic functions](logarithmic-function/)
 * Polynomial functions
 * Arithmetic function
 * Geometric function
@@ -15,5 +15,5 @@ description: List of functions.
 * Hyperbolic functions
 * Piece-wise functions
 * [Inverse functions](special-functions/)
-* [Sigma function](../../sigma-function.md)
+* [Sigma function](special-functions/iteration-functions/sigma-function.md)
 * [Special functions](special-functions/)
