@@ -36,4 +36,9 @@ The list of languages that you should limit use is as follows:
 * Bash
 * text
 * Symbolab script
-* Ggs
+* Gss
+* Maple
+* Coqjs
+* Coq
+* Mathml
+* Some others but use common sense.
