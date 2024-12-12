@@ -4,7 +4,6 @@ description: >-
   sciences.
 icon: browser
 ---
-
 # Applications
 
 Topics in applications generally focus on the following subjects although may focus on anything math related:
@@ -18,3 +17,4 @@ Topics in applications generally focus on the following subjects although may fo
 * Computer science
 * Computer logic
 * Logic
+* Astronomy
