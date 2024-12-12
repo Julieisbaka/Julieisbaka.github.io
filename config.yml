@@ -1,3 +1,0 @@
-              - name: docfx for GitHub Pages
-                uses: sator-imaging/docfx-pages@v1.7.1
-            
