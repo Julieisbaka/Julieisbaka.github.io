@@ -19,3 +19,4 @@
   * [Triangle](documentation/triangle.md)
   * [Leibniz formula for pi](documentation/leibniz-formula-for-pi.md)
   * [Euler's identity](documentation/eulers-identity.md)
+* [Applications](applications.md)
