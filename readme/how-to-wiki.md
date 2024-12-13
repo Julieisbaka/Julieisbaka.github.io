@@ -1,12 +1,12 @@
 ---
 icon: question
-description: How to edit and work with the mathwiki. Including tools, suggestions, and a whole lot more.
+description: How to edit and work with the Mathwiki. Including tools, suggestions, and a whole lot more.
 ---
 # How to wiki?
 
 ```markdown
-This wiki is primarly composed in markdown. To keep with this style and to stay compatiable
-with gitbook I highly recomend writing documentation in markdown or markdown adjacent languages.
+This wiki is primarily composed in markdown. To keep with this style and to stay compatible
+with Gitbook I highly recommend writing documentation in markdown or markdown adjacent languages.
 The list of languages that you should limit use is as follows:
 
 ```
@@ -15,12 +15,11 @@ The list of languages that you should limit use is as follows:
 * JS
 * JSON
 * Markdown
-* Ipynb
-* MHTML
+* iPYnb
+* M HTML
 * CSS
 * JSS
-* Desmos script
-* mathimatoca
+* mathimatica
 * Magma
 * Matlab
 * Python
@@ -37,9 +36,9 @@ The list of languages that you should limit use is as follows:
 * Symbolab script
 * Gss
 * Maple
-* Coqjs
+* Coq js
 * Coq
-* Mathml
+* MathML
 * Some others but use common sense.
 
-When creating and editing pages and documentation their are a few things you need to consider first, most importently, assume good will; most likely someone is not trying to mess something up, if someone makes a mistake you can fix it or let the original editor know of the problem with their documentation on the wiki.
+When creating and editing pages and documentation their are a few things you need to consider first, most importantly, assume good will; most likely someone is not trying to mess something up, if someone makes a mistake you can fix it or let the original editor know of the problem with their documentation on the wiki.

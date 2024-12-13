@@ -8,12 +8,12 @@ icon: browser
 
 Topics in applications generally focus on the following subjects although may focus on anything math related:
 
-* Finace
+* Finance
 * Economics (Mostly macro, some micro)
 * Physics
 * Chemistry
 * Biology
-* Enigneering
+* Engineering
 * Computer science
 * Computer logic
 * Logic

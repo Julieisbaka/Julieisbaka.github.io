@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Home](README.md)
-  * [Rules and beleifs](readme/rules-and-beleifs.md)
+  * [Rules and beliefs](readme/rules-and-beleifs.md)
   * [Tools](readme/tools.md)
   * [Wiki notebook.](readme/wiki-notebook..md)
   * [How to wiki?](readme/how-to-wiki.md)

@@ -5,7 +5,7 @@ description: The sigma function. See Sigma notation. Summation function redirect
 
 # Sigma function
 
-The Sigma function is the function of Summation. Summnation is the iteratble addition of something.&#x20;
+The Sigma function is the function of Summation. Summation is the iterable addition of something.&#x20;
 
 $$
 \sum^n_kf(x)=2k+x^2
