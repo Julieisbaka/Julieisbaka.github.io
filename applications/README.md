@@ -14,7 +14,7 @@ Topics in applications generally focus on the following subjects although may fo
 * [Physics](physics/)
 * [Chemistry](chemistry.md)
 * [Biology](biology.md)
-* Engineering
+* [Engineering](engineering.md)
 * [Computer science](computer-science/)
 * [Computer logic](computer-science/computer-logic.md)
 * [Logic](logic.md)

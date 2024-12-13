@@ -5,13 +5,11 @@ description: >-
   population growth and etc.
 ---
 
-# Bioligy
+# Biology
 
 Math can be used to model, via regressions and the similar, estimations. In this topic you will learn how to use math to model things. There are many applications of math within biology. Population growth, doubling times, population decay, pollution levels, ocean levels, pi charts, graphs for independent and dependent variables, and more / etc. If this sounds interesting to you then please move on to the next page and continue reading to get started learning about this topic that you find so interesting.
 
 Or get a bit of an introduction to the content on this page before moving on!
-
-
 
 ### Useful formulas and information for the following pages
 
@@ -20,5 +18,3 @@ Prokaryotes, due to them being single celled organisms, reproduce through asexua
 $$
 P(t) =P_i^{2/t}where\:t\:is\:\N
 $$
-
-Their is some need to know background knowledge that we should delve into before moving to the next pages.
