@@ -1,7 +1,10 @@
 ---
 icon: question
-description: How to edit and work with the Mathwiki. Including tools, suggestions, and a whole lot more.
+description: >-
+  How to edit and work with the Mathwiki. Including tools, suggestions, and a
+  whole lot more.
 ---
+
 # How to wiki?
 
 ```markdown
@@ -16,28 +19,24 @@ The list of languages that you should limit use is as follows:
 * JSON
 * Markdown
 * iPYnb
-* M HTML
+*
 * CSS
 * JSS
-* mathimatica
+* [mathimatica](tools.md)
 * Magma
 * Matlab
 * Python
 * Plain text
-* Latex
-* Katex
 * Tex
-* Batex
 * Python
 * Mermaid
 * Git
 * Bash
-* text
 * Symbolab script
 * Gss
 * Maple
-* Coq js
-* Coq
+* [Coq js](tools.md)
+* [Coq](tools.md)
 * MathML
 * Some others but use common sense.
 
