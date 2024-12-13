@@ -1,12 +1,1 @@
 .vscode
-codeql-custom-queries-javascript
-*.log
-.launch.json
-settings.json
-.vs
-configs.json
-.editorconfig
-.ssh
-.bash
-.swm
-swimm.json
