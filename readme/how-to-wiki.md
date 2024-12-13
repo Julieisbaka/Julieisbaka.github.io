@@ -19,14 +19,12 @@ The list of languages that you should limit use is as follows:
 * JSON
 * Markdown
 * iPYnb
-*
 * CSS
 * JSS
 * [mathimatica](tools.md)
 * Magma
 * Matlab
-* Python
-* Plain text
+* [Python](https://python.org)
 * Tex
 * Python
 * Mermaid
