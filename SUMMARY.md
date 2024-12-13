@@ -19,7 +19,7 @@
   * [Triangle](documentation/triangle.md)
   * [Leibniz formula for pi](documentation/leibniz-formula-for-pi.md)
   * [Euler's identity](documentation/eulers-identity.md)
-* [Applications](applications/README.md)
+* [Applications to the real world](applications/README.md)
   * [Physics](applications/physics/README.md)
     * [Astronomy](applications/physics/astronomy.md)
   * [Chemistry](applications/chemistry.md)

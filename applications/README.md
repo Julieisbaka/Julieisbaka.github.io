@@ -1,11 +1,11 @@
 ---
 icon: browser
 description: >-
-  Pages about the applications of mathematics, and its connection to other
-  sciences.
+  Pages about the applications to the real world of mathematics, and its
+  connection to other sciences.
 ---
 
-# Applications
+# Applications to the real world
 
 Topics in applications generally focus on the following subjects although may focus on anything math related:
 
