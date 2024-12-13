@@ -13,7 +13,7 @@ Topics in applications generally focus on the following subjects although may fo
 * [Economics](economics/) (Mostly macro, some micro)
 * [Physics](physics/)
 * [Chemistry](chemistry.md)
-* [Biology](bioligy.md)
+* [Biology](biology.md)
 * Engineering
 * [Computer science](computer-science/)
 * [Computer logic](computer-science/computer-logic.md)

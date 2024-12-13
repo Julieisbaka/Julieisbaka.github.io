@@ -28,5 +28,5 @@
   * [Logic](applications/logic.md)
   * [Economics](applications/economics/README.md)
     * [Finance](applications/economics/finance.md)
-  * [Bioligy](applications/bioligy.md)
+  * [Biology](applications/biology.md)
   * [Engineering](applications/engineering.md)
