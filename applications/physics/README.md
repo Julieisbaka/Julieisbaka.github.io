@@ -9,6 +9,8 @@ description: >-
 
 ### Concepts
 
+The most fundamental examples of derivatives are distance and motion.
+
 ### Theorems
 
 #### Newtons law of cooling
