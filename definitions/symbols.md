@@ -42,8 +42,3 @@ Notation: let the symbol + indicate the addition of terms or indicates that a nu
 Notation: let the symbol - indicate the subtraction between terms or represent a negative value of a term.
 
 Notation: let the symbol / indicate division.
-
-
-
-
-

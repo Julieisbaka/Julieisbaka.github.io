@@ -7,5 +7,4 @@ description: How to use math to help you keep care of your personal finance.
 
 For activities relating to taxes proceed to the following link: [IRS](https://apps.irs.gov/app/understandingTaxes/student/activities.jsp)
 
-#### Taking care of your money
-
+## Taking care of your money

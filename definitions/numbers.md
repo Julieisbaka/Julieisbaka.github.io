@@ -9,4 +9,3 @@ description: >-
 $$\pi\approx3.14159$$
 
 $$e\approx2.718$$
-
