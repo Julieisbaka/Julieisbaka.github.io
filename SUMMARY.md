@@ -30,3 +30,6 @@
     * [Finance](applications/economics/finance.md)
   * [Biology](applications/biology.md)
   * [Engineering](applications/engineering.md)
+* [Definitions](definitions/README.md)
+  * [Symbols](definitions/symbols.md)
+  * [🔢 Numbers](definitions/numbers.md)
