@@ -28,3 +28,11 @@ Understanding the total cost function is crucial for evaluating the overall expe
 The variable cost `( C_v )` changes with the output level, representing expenses that vary with production volume, such as raw materials and labor. Meanwhile, the fixed cost `( C_f )` remains constant regardless of the quantity produced, encompassing expenditures like rent and salaries.
 
 By comprehensively analyzing the total cost function `( C_t )`, businesses can better manage resource allocation and make informed financial decisions that optimize profit margins, without conflating the symbol for profit, `(\pi)`, with mathematical constants.
+
+### The natural logarithm
+
+$$
+\log_ex=\ln x
+$$
+
+The natural logarithm is a logarithm with the base of e (Euler's number). It has a lot of applications in economic modeling and graphing. For more information about the natural logarithm and its applications go to [this page.](../../functions/function-catalog/logarithmic-function/natural-logarithm..md)
