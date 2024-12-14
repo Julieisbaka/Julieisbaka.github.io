@@ -12,7 +12,7 @@
 }
 
 #jr_close {
-   text-transform: uppercase;
+    text-transform: uppercase;
     cursor: pointer;
 }
 
@@ -57,6 +57,8 @@
     text-decoration: underline;
 }
 
-#jr_wrap a:visited, #jr_wrap a:active, #jr_wrap a:focus {
+#jr_wrap a:visited,
+#jr_wrap a:active,
+#jr_wrap a:focus {
     color: #000000;
 }
