@@ -7,13 +7,13 @@ description: >-
 
 # Physics
 
-### Concepts
+## Concepts
 
 The most fundamental examples of derivatives are distance and motion.
 
-### Theorems
+## Theorems
 
-#### Newtons law of cooling
+### Newtons law of cooling
 
 “The rate of heat loss from a body is directly proportional to the difference in temperature between the body and its surroundings, given that the temperature difference is not large.”
 

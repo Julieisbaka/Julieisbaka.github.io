@@ -4,4 +4,3 @@ icon: face-tongue-money
 ---
 
 # Finance
-

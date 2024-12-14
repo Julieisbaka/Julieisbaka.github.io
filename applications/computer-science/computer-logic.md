@@ -6,4 +6,3 @@ icon: desktop
 ---
 
 # Computer logic
-

@@ -7,7 +7,7 @@ description: >-
 
 # Economics
 
-### The total cost function <a href="#cost" id="cost"></a>
+## The total cost function <a href="#cost" id="cost"></a>
 
 The function that models the total cost is called the total cost function. The function is modeled by the equation
 

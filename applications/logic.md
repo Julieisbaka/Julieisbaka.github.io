@@ -6,4 +6,3 @@ icon: diagram-venn
 ---
 
 # Logic
-

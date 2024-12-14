@@ -6,4 +6,3 @@ icon: star
 ---
 
 # Astronomy
-

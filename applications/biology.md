@@ -11,7 +11,7 @@ Math can be used to model, via regressions and the similar, estimations. In this
 
 Or get a bit of an introduction to the content on this page before moving on!
 
-### Useful formulas and information for the following pages
+## Useful formulas and information for the following pages
 
 Prokaryotes, due to them being single celled organisms, reproduce through asexual reproduction through a process known as binary fission. So one cell would split into 2 both cells being almost identical to each other. Because of this the mathematical modeling of prokaryotic population growth is very ... very non chaotic. Prokaryotic cells reproduce in something known as a doubling time, After every doubling time the population of bacteria will be doubled. This means the population of bacteria can be very easily modeled by exponential functions, this makes it great as an introduction to the usages of mathematics in biology. The function would be as follows where t represents time.
 
