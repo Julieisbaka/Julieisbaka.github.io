@@ -25,7 +25,7 @@ The list of languages that you should limit use is as follows:
 * [Python](https://python.org)
 * Tex
 * Mermaid
-* Mapl
+* Maple
 * [Coq js](tools.md)
 * [Coq](tools.md)
 * Some others but use common sense.
