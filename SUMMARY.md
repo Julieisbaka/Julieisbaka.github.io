@@ -33,4 +33,3 @@
 * [Definitions](definitions/README.md)
   * [Symbols](definitions/symbols.md)
   * [🔢 Numbers](definitions/numbers.md)
-* [Reyleigh-Jean's law](reyleigh-jeans-law.md)

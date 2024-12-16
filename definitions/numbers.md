@@ -4,7 +4,7 @@ description: >-
   numbers go to their documentation pages.
 ---
 
-# 🔢Numbers
+# 🔢 Numbers
 
 $$\pi\approx3.14159$$ - Pi.
 

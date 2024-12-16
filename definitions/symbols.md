@@ -1,8 +1,8 @@
 ---
+icon: icons
 description: >-
   Category of definitions containing definitions related to mathematical
   symbols.
-icon: icons
 ---
 
 # Symbols
@@ -42,3 +42,7 @@ Notation: let the symbol + indicate the addition of terms or indicates that a nu
 Notation: let the symbol - indicate the subtraction between terms or represent a negative value of a term.
 
 Notation: let the symbol / indicate division.
+
+Notation: let the symbol % indicate percent.
+
+Notation: let the symbol ! indicate factorial, e.g: 5! = 5 \* 4\* 3\* 2\* 1
