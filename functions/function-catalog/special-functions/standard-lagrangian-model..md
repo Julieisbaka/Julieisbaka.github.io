@@ -13,4 +13,10 @@ The standard model is used to describe the interaction between the fundamental f
 
 ### Background
 
-A photon is the particle that carriers the Electromagnetic forces. Light can exist as a wave or a particle; the characteristic of visible light is light of a specific wavelength. A photon can be simplify described as a pocket or capsule of energy.&#x20;
+A photon is the particle that carriers the Electromagnetic forces. Light can exist as a wave or a particle; the characteristic of visible light is light of a specific wavelength. A photon can be simplify described as a pocket or capsule of energy. Einsteins theory of special relativity states
+
+
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
