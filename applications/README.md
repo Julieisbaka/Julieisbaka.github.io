@@ -7,7 +7,7 @@ description: >-
 
 # Applications to the real world
 
-Topics in applications generally focus on the following subjects although may focus on anything math related:
+Topics in the applications category generally focus on the following subjects although may focus on anything math related:
 
 * [Finance](economics/finance.md)
 * [Economics](economics/) (Mostly macro, some micro)

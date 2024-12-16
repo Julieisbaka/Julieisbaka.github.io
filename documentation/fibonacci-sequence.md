@@ -10,7 +10,7 @@ $$
 f(n) = f(n-1) + f(n-2)
 $$
 
-for the starting number equal to 0 or 1 (Be consistant)
+for the starting number equal to 0 or 1 (Be consistent)
 
 ## **Applications**
 

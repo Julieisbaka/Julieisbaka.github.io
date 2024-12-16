@@ -4,4 +4,4 @@ description: Logarithms, common logarithms, natural logarithms, concepts of base
 ---
 # logarithmic function
 
-A logarithm is a type of mathamatical operation that is inverse to that of exponentation.&#x20;
+A logarithm is a type of mathematical operation that is inverse to that of exponentiation.&#x20;

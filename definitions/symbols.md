@@ -1,6 +1,6 @@
 ---
 description: >-
-  Category of definitions containing definitions related to mathamatical
+  Category of definitions containing definitions related to mathematical
   symbols.
 icon: icons
 ---

@@ -1,7 +1,7 @@
 ---
 icon: question
 description: >-
-  How to edit and work with the Mathwiki. Including tools, suggestions, and a
+  How to edit and work with the MathWiki. Including tools, suggestions, and a
   whole lot more.
 ---
 

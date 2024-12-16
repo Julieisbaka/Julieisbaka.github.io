@@ -7,4 +7,4 @@ icon: book
 
 # Documentation
 
-Go an explore some documentation kids!
+Go an explore some documentation!

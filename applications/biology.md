@@ -4,7 +4,6 @@ description: >-
   How to use math to interrupt biological scenarios. Use math to model
   population growth and etc.
 ---
-
 # Biology
 
 Math can be used to model, via regressions and the similar, estimations. In this topic you will learn how to use math to model things. There are many applications of math within biology. Population growth, doubling times, population decay, pollution levels, ocean levels, pi charts, graphs for independent and dependent variables, and more / etc. If this sounds interesting to you then please move on to the next page and continue reading to get started learning about this topic that you find so interesting.
