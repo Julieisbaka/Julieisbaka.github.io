@@ -7,6 +7,10 @@ description: >-
 
 # Standard Lagrangian model.
 
-<figure><img src="../../../.gitbook/assets/Screen_Shot_2016-08-03_at_3.webp" alt=""><figcaption><p>Umm...</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen_Shot_2016-08-03_at_3.webp" alt=""><figcaption></figcaption></figure>
 
-Ok... Thats alot... Maybe not?
+The standard model is used to describe the interaction between the fundamental forces as well as the interaction of their corresponding particles.
+
+### Background
+
+A photon is the particle that carriers the Electromagnetic forces. Light can exist as a wave or a particle; the characteristic of visible light is light of a specific wavelength. A photon can be simplify described as a pocket or capsule of energy.&#x20;
