@@ -13,6 +13,7 @@
     * [Inverse functions](functions/function-catalog/inverse-functions.md)
     * [logarithmic function](functions/function-catalog/logarithmic-function/README.md)
       * [Natural logarithm.](functions/function-catalog/logarithmic-function/natural-logarithm..md)
+      * [Common logarithm](functions/function-catalog/logarithmic-function/common-logarithm.md)
 * [Documentation](documentation/README.md)
   * [Fibonacci sequence](documentation/fibonacci-sequence.md)
   * [Derivatives](documentation/derivatives.md)
@@ -33,3 +34,4 @@
 * [Definitions](definitions/README.md)
   * [Symbols](definitions/symbols.md)
   * [🔢 Numbers](definitions/numbers.md)
+* [Binary logarithm](binary-logarithm.md)
