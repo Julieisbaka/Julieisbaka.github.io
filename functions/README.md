@@ -48,4 +48,4 @@ $$
 f\prime = \delta f(x),f\prime=\frac{d}{dx}f(x)
 $$
 
-The above notation is a notation for [ <mark style = "color:red;" >derivatives.</mark> ] (broken-reference/) The first derivative of a function (and second of the input variable) is equal to the secant line (slope). The first derivative of x is the measurement of the rate of change of the function, represented by D/Dx, and is found by finding the equation of the tangent line (the line tangent to the function). The most primal examples of derivatives are distance and motion.
+The above notation is a notation for [<mark style = "color:red;" >derivatives.</mark>] (broken-reference/) The first derivative of a function (and second of the input variable) is equal to the secant line (slope). The first derivative of x is the measurement of the rate of change of the function, represented by D/Dx, and is found by finding the equation of the tangent line (the line tangent to the function). The most primal examples of derivatives are distance and motion.

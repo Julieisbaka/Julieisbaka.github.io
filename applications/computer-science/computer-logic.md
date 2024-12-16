@@ -1,6 +1,6 @@
 ---
 description: >-
-  How to use math to understand the fundemental prinicpals of computers and
+  How to use math to understand the fundamental principals of computers and
   coding.
 icon: desktop
 ---

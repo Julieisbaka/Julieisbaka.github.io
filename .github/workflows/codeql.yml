@@ -87,4 +87,4 @@ jobs:
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v3
       with:
-        category: "/language:${{matrix.language}}"# For most projects, this workflow file will not need changing; you simply need
+        category: "/language:${{matrix.language}}" # For most projects, this workflow file will not need changing; you simply need

@@ -6,6 +6,12 @@ description: >-
 
 # 🔢 Numbers
 
-$$\pi\approx3.14159$$
+$$\pi\approx3.14159$$ - Pi
 
-$$e\approx2.718$$
+$$e\approx2.718$$ - Euler's number
+
+$$\sqrt{2}\approx1.$$ - Pythagoras's constant
+
+$$\sqrt{3}\approx1.$$ - Theodorus's constant
+
+$$\im$$
