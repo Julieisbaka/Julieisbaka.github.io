@@ -7,4 +7,6 @@ description: >-
 
 # Standard Lagrangian model.
 
-<figure><img src="../../../.gitbook/assets/Screen_Shot_2016-08-03_at_3.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screen_Shot_2016-08-03_at_3.webp" alt=""><figcaption><p>Umm...</p></figcaption></figure>
+
+Ok... Thats alot... Maybe not?
