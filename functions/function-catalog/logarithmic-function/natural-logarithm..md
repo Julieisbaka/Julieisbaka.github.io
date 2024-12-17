@@ -3,7 +3,7 @@ icon: tree-large
 description: A special logarithm with a special number as its base.
 ---
 
-# Natural logarithm.
+# Natural logarithm
 
 A logarithm with base e is called a natural log represented by ln (logarithm natural).
 

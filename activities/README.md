@@ -4,4 +4,3 @@ description: Activities relating to math
 ---
 
 # Activities
-

@@ -5,5 +5,4 @@ description: >-
   leave the wiki.
 ---
 
-# Wiki notebook.
-
+# Wiki notebook

@@ -6,5 +6,4 @@ description: >-
 icon: pen-field
 ---
 
-# Standard Lagrangian model.
-
+# Standard Lagrangian model

@@ -31,6 +31,6 @@ $$
 f(x) = x * e^{2 pi i \xi x}
 $$
 
-{% embed url="https://en.wikipedia.org/wiki/Mathematics#Physics" %}
+{% embed url = "<https://en.wikipedia.org/wiki/Mathematics#Physics>" %}
 Wikipedia article for more information on the subject matter.
 {% endembed %}
