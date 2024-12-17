@@ -39,4 +39,5 @@
 * [Activities](activities/README.md)
   * [Patterns](activities/patterns.md)
   * [Functions](activities/functions.md)
-* [Practice pro](practice-pro.md)
+* [Practice problems](practice-problems/README.md)
+  * [Questions - misc](practice-problems/questions-misc.md)
