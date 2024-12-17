@@ -1,9 +1,0 @@
-{
-    "plugins": [
-        "url-embed",
-        "edit-link",
-        "include-html",
-        "hide-published-with",
-        "back-to-top-button"
-    ]
-}
