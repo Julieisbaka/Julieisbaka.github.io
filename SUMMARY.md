@@ -44,3 +44,4 @@
 * [References](references/README.md)
   * [Page 1](references/page-1.md)
   * [Page 2](references/page-2.md)
+* [Donations and subscriptions](donations-and-subscriptions.md)
