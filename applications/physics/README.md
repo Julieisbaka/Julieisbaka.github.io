@@ -1,5 +1,5 @@
 ---
-icon: users-medical
+icon: atom
 description: >-
   The relationship between math and physics. Dive into physical mathematics and
   mathematical physics.

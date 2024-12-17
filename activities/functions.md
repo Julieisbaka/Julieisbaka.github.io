@@ -1,5 +1,6 @@
 ---
 icon: function
+description: Function activities.
 ---
 
 # Functions

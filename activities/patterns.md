@@ -1,5 +1,6 @@
 ---
-icon: apartment
+icon: shapes
+description: Pattern activities.
 ---
 
 # Patterns

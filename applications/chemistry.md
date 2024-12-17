@@ -1,5 +1,5 @@
 ---
-icon: helmet-un
+icon: vial
 description: How to use math in chemistry and how math connects chemistry topics.
 ---
 
