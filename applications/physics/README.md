@@ -26,3 +26,11 @@ $$
 Where T(t) is the time dependent reaction for temperature, T is temperature, t is time, k is rate of cooling, and is
 
 The formula can be represented as the following differential equation
+
+$$
+f(x) = x * e^{2 pi i \xi x}
+$$
+
+{% embed url="https://en.wikipedia.org/wiki/Mathematics#Physics" %}
+Wikipedia article for more information on the subject matter.
+{% endembed %}

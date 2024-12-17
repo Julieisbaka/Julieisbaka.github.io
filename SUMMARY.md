@@ -38,3 +38,4 @@
   * [🔢 Numbers](definitions/numbers.md)
 * [Activities](activities/README.md)
   * [Patterns](activities/patterns.md)
+  * [Functions](activities/functions.md)
