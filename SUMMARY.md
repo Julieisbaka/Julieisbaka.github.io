@@ -36,3 +36,5 @@
 * [Definitions](definitions/README.md)
   * [Symbols](definitions/symbols.md)
   * [🔢 Numbers](definitions/numbers.md)
+* [Activities](activities/README.md)
+  * [Patterns](activities/patterns.md)
