@@ -5,4 +5,6 @@ description: >-
   leave the wiki.
 ---
 
-# Wiki notebook
+# Wiki notebook.
+
+{% embed url="https://www.geogebra.org/m/t4fkp845" %}
