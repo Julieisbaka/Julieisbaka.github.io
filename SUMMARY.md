@@ -45,4 +45,5 @@
   * [Page 1](references/page-1.md)
   * [Page 2](references/page-2.md)
 * [Donations and subscriptions](donations-and-subscriptions.md)
-* [Page 3](page-3.md)
+* [Experiments](experiments/README.md)
+  * [APIs](experiments/apis.md)
