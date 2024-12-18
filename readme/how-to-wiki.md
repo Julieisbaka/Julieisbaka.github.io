@@ -33,4 +33,4 @@ Docs for devs
 
 Use Markdown lint vscode extension for linting. Ignore no embedded HTML.
 
-I'll make a custom extension or lint list of the sort to aide in development. For editing environments I would suggest Vscode, Vscode insiders, [Vscode Insiders web](https://insiders.vscode.dev/), [Vscode web](https://vscode.dev/), [github web](https://github.dev), or writerside.
+I'll make a custom extension or lint list of the sort to aide in development. For editing environments I would suggest Vscode, Vscode insiders, [Vscode Insiders web](https://insiders.vscode.dev/), [Vscode web](https://vscode.dev/), [github web](https://github.dev), or Writerside.
