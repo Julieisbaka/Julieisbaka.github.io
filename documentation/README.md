@@ -1,8 +1,6 @@
 ---
-description: >-
-  This page contains the majority of non special documentation pages on this
-  wiki
 icon: book
+description: This page contains the majority of the pages on this wiki
 ---
 
 # Documentation
