@@ -3,5 +3,7 @@
     // markdownlint 
     "no-inline-html": false,
     "fenced-code-language": false,
-    "MD033": false
+    "MD033": false,
+    "line-length": false,
+    "MD013": false
 }
