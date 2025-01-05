@@ -16,23 +16,16 @@ The list of languages that you should limit use is as follows:
 
 * Markdown + math based variants
 * Tex + popular and math based variants
-* Mermaid + adoptions
-* HTML + variants
-* JSON for configs
-* JS for configs
-* YML for configs
+* Mermaid + adoptions for diagrams and similar
+* HTML + variants for web
+* JS for scripting
+* YML or Json for configs
 * Git files for Git
 
 When creating and editing pages and documentation their are a few things you need to consider first, most importantly, assume good will; most likely someone is not trying to mess something up, if someone makes a mistake you can fix it or let the original editor know of the problem with their documentation on the wiki.
 
 ## Standardization
 
-Linting for markdown content on the mathwiki should be done using the markdownlint extension linter with the custom linting config:
+Linting for markdown will be done using the Markdownlint extension with a custom config:
 
-I'll make a custom extension or lint list of the sort to aide in development. For editing environments I would suggest Vscode, Vscode insiders, [Vscode Insiders web](https://insiders.vscode.dev/), [Vscode web](https://vscode.dev/), [github web](https://github.dev), or Writerside.
-
-```json
-{}
-```
-
-For editing environments I would suggest Vscode, Vscode insiders, [Vscode Insiders web](https://insiders.vscode.dev/), [Vscode web](https://vscode.dev/), [github web](https://github.dev), or writerside.
+Any IDE is welcome to be used while developing, however whichever IDE you pick should support the following features (or have a method of getting these features through 3rd party extensions or etc): git integration, Markdown lint config and linting support, Markdown preview, Gitbook style markdown preview.
