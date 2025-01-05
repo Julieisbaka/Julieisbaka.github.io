@@ -8,4 +8,4 @@ description: >-
 
 # Standard Lagrangian model.
 
-<figure><img src="../../.gitbook/assets/Standard model.webp" alt="Standard langrian model equation"><figcaption><p>Standard Langrian model equation.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Standard model.webp" alt="Standard langrian model equation"><figcaption><p>Standard Langrian model equation.</p></figcaption></figure>
