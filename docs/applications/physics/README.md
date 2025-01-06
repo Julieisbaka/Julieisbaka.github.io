@@ -9,7 +9,7 @@ description: >-
 
 ## Concepts
 
-The most fundamental examples of derivatives are distance and motion.
+The most fundamental example of a derivative is distance/motion.
 
 ## Theorems
 
