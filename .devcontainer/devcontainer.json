@@ -4,7 +4,6 @@
     "ghcr.io/devcontainers/features/github-cli:1": {},
     "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {},
     "ghcr.io/devcontainers/features/node:1": {},
-    "ghcr.io/devcontainers-extra/features/markdownlint-cli2:1": {},
-    "ghcr.io/devcontainers/features/php:1": {}
+    "ghcr.io/devcontainers-extra/features/markdownlint-cli2:1": {}
   }
 }
