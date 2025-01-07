@@ -2,7 +2,7 @@
 
 * [Home](README.md)
   * [Contributor Covenant Code of Conduct](readme/CODE_OF_CONDUCT.md)
-  * [CONTRIBUTING](readme/CONTRIBUTING.md)
+  * [Contributing](readme/CONTRIBUTING.md)
   * [LICENSE](readme/LICENSE.md)
   * [Wiki how?](readme/how-to-wiki.md)
   * [News](readme/news.md)
