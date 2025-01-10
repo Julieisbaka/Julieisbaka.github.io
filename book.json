@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    "highlight",
+    "search",
+    "anchor-navigation",
+    "sharing",
+    "Mermaid",
+    "Table of Contents"
+  ]
+}
