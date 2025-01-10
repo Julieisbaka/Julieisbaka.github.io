@@ -1,0 +1,51 @@
+{
+    "name": "mathwiki",
+    "description": "This is the mathwiki.",
+    "author": "Casper Schorr",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "gitbook-cli": "2.3.2"
+    },
+    "devDependencies": {
+        "gitbook-plugin-highlight": "2.0.3",
+        "gitbook-plugin-search": "2.2.1",
+        "gitbook-plugin-sharing": "1.0.2",
+        "gitbook-plugin-disqus": "1.0.1",
+        "gitbook-plugin-github": "3.0.0",
+        "gitbook-plugin-mermaid": "0.0.9",
+        "gitbook-plugin-mathjax": "2.0.0",
+        "gitbook-plugin-katex": "1.1.4",
+        "gitbook-plugin-toc": "0.0.2",
+        "gitbook-plugin-hide-published-with": "1.0.3",
+        "gitbook-plugin-livereload": "0.0.1",
+        "gitbook-plugin-advanced-emoji": "0.2.2",
+        "gitbook-plugin-edit-link": "2.0.2",
+        "gitbook-plugin-footer": "0.0.6",
+        "gitbook-plugin-language-picker": "0.1.0",
+        "gitbook-plugin-fontsettings": "2.0.0",
+        "gitbook-plugin-summary": "1.1.0"
+    },
+    "gitbook": {
+        "plugins": [
+            "highlight",
+            "search",
+            "sharing",
+            "disqus",
+            "github",
+            "mermaid",
+            "mathjax",
+            "katex",
+            "toc",
+            "hide-published-with",
+            "livereload",
+            "advanced-emoji",
+            "pwa",
+            "edit-link",
+            "footer",
+            "language-picker",
+            "fontsettings",
+            "summary"
+        ]
+    }
+}
