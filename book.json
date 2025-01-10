@@ -1,10 +1,21 @@
 {
+  "title": "Mathwiki",
+  "author": "Casper Schorr",
+  "description": "This is the mathwiki.",
+  "language": "en",
+  "gitbook": ">=3.0.0",
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
   "plugins": [
-    "highlight",
-    "search",
-    "anchor-navigation",
+    "disqus",
+    "github",
+    "mermaid",
     "sharing",
-    "Mermaid",
-    "Table of Contents"
+    "search",
+    "mathjax",
+    "katex",
+    "highlight"
   ]
 }
