@@ -21,7 +21,7 @@
         "gitbook-plugin-livereload": "0.0.1",
         "gitbook-plugin-advanced-emoji": "0.2.2",
         "gitbook-plugin-edit-link": "2.0.2",
-        "gitbook-plugin-footer": "0.0.6",
+        "gitbook-plugin-footer": "0.1.0",
         "gitbook-plugin-language-picker": "0.1.0",
         "gitbook-plugin-fontsettings": "2.0.0",
         "gitbook-plugin-summary": "1.1.0"
