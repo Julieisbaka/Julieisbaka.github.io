@@ -10,6 +10,7 @@
   * [Tools](readme/tools.md)
   * [Wiki notebook.](readme/wiki-notebook..md)
 * [Documentation](documentation/README.md)
+  * [Area under a curve](documentation/area-under-a-curve.md)
   * [Derivatives](documentation/derivatives.md)
   * [Euler's identity](documentation/eulers-identity.md)
   * [Fibonacci sequence](documentation/fibonacci-sequence.md)
