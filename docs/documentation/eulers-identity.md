@@ -25,7 +25,7 @@ $$
 
 <summary>Siderant</summary>
 
-If you are just looking for math direcly please skip this sideanrt i dont want to take away or distract from your learning through the Math Wiki; otherwise keep reading... or dont. I made the the above formula just to see how much I could expand it; there is no real reason to do so. (1+1/n)^n as n approaches infinity is equal to e. The square root of -1 is defined as i. The last part is Leibniz's formula for pi, and because the formula is for pi/4 I multiplied that by 4 to just get pi.
+If you are just looking for math directly please skip this siderant I don't want to take away or distract from your learning through the Math Wiki; otherwise keep reading... or don't. I made the the above formula just to see how much I could expand it; there is no real reason to do so. (1+1/n)^n as n approaches infinity is equal to e. The square root of -1 is defined as i. The last part is Leibniz's formula for pi, and because the formula is for pi/4 I multiplied that by 4 to just get pi.
 
 </details>
 
