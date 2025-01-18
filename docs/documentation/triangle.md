@@ -15,8 +15,6 @@ $$
 
 h is the height and l is the length.
 
-### Angles
 
-We know that, by definition, a straight line is 180 degrees.
 
-Halve of that would be the shape formed by the angle known as a right angle. An angle with a 90 degree measurement. Let's create a right triangle.
+### Diagram
