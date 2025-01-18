@@ -15,6 +15,6 @@ $$
 
 h is the height and l is the length.
 
-
-
 ### Diagram
+
+{% embed url="https://www.desmos.com/calculator/w9colashsb" %}
