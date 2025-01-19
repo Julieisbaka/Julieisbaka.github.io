@@ -57,4 +57,5 @@
   * [Page 2](references/page-2.md)
 * [Experiments](experiments/README.md)
   * [APIs](experiments/apis.md)
+  * [Possible site movement](experiments/possible-site-movement.md)
 * [Donations and subscriptions](donations-and-subscriptions.md)
