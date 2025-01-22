@@ -22,3 +22,13 @@ m=\frac{Dy}{Dx}
 $$
 
 Thus this is identical to slope. The second derivative of x is also Dy/Dx and thus the second derivative of x is slope.
+
+## Power rule
+
+The power rule is a simple method of finding derivatives.&#x20;
+
+$$
+\delta x^a=ax^{a-1}
+$$
+
+The exponent on the variable being derived goes down by one and the original value is multiplied by the variable.

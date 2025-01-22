@@ -5,9 +5,14 @@ description: >-
   (unless the tool has a built in way of doing this are its obvious eg: Desmos
   with its edit page in the embed); tell the user.
 ---
+
 # Tools
 
 [Desmos](https://desmos.com) - A set of tools for complex 2D and simple 3D graphing and plotting. (Embed)
+
+Explore the interactive Desmos graph by visiting the provided link. It allows you to manipulate variables and observe changes in real-time, enhancing your understanding of mathematical concepts&#x20;
+
+[<mark style="color:blue;">https://www.desmos.com/calculator/zpqh60qxol</mark>](https://www.desmos.com/calculator/zpqh60qxol)
 
 [Symbolab](https://symbolab.com) - A suite of math tools. Very popular in data science. (Some embed)
 

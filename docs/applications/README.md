@@ -10,7 +10,7 @@ description: >-
 Topics in the applications category generally focus on the following subjects although may focus on anything math related:
 
 * [Finance](economics/finance.md)
-* [Economics](economics/) (Mostly macro, some micro)
+* [Economics](economics/)
 * [Physics](physics/)
 * [Chemistry](chemistry.md)
 * [Biology](biology.md)
