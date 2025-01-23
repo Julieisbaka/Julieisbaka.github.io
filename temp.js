@@ -2,7 +2,7 @@ import { GitBookAPI } from "@gitbook/api";
 import gitbookPluginHidePublishedWith from "gitbook-plugin-hide-published-with";
 import { GITBOOK_DEFAULT_ENDPOINT } from "@gitbook/api";
 import { GitBookAPIError } from "@gitbook/api";
-import { get } from "gitbook/lib/constants/defaultPlugins";
+import { get } from "gitbook/lib/constants/defaultPlugins.js";
 import { generate } from "gitbook/lib/output";
 
 let gitbook = new GitBookAPI({

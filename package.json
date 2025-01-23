@@ -5,27 +5,26 @@
     "version": "1.0.0",
     "main": "index.js",
     "dependencies": {
-        "gitbook": "^2.6.9",
-        "gitbook-cli": "2.3.2",
-        "gitbook-plugin-ai-assistant": "^1.0.0"
+        "gitbook": "3.2.3",
+        "gitbook-cli": "2.3.2"
     },
     "devDependencies": {
-        "gitbook-plugin-advanced-emoji": "^0.2.2",
-        "gitbook-plugin-disqus": "^1.0.1",
-        "gitbook-plugin-edit-link": "^2.0.2",
-        "gitbook-plugin-fontsettings": "^2.0.0",
-        "gitbook-plugin-footer": "^0.1.0",
-        "gitbook-plugin-github": "^3.0.0",
+        "gitbook-plugin-advanced-emoji": "0.2.2",
+        "gitbook-plugin-disqus": "1.0.1",
+        "gitbook-plugin-edit-link": "2.0.2",
+        "gitbook-plugin-fontsettings": "2.0.0",
+        "gitbook-plugin-footer": "0.1.0",
+        "gitbook-plugin-github": "3.0.0",
         "gitbook-plugin-hide-published-with": "^1.0.3",
-        "gitbook-plugin-highlight": "^2.0.3",
-        "gitbook-plugin-katex": "^1.1.4",
-        "gitbook-plugin-language-picker": "^0.1.0",
-        "gitbook-plugin-livereload": "^0.0.1",
-        "gitbook-plugin-mathjax": "^2.0.0",
-        "gitbook-plugin-mermaid": "^0.0.9",
-        "gitbook-plugin-search": "^2.2.1",
-        "gitbook-plugin-sharing": "^1.0.2",
-        "gitbook-plugin-summary": "^1.1.0",
-        "gitbook-plugin-toc": "^0.0.2"
+        "gitbook-plugin-highlight": "2.0.3",
+        "gitbook-plugin-katex": "1.1.4",
+        "gitbook-plugin-language-picker": "0.1.0",
+        "gitbook-plugin-livereload": "0.0.1",
+        "gitbook-plugin-mathjax": "2.0.0",
+        "gitbook-plugin-mermaid": "0.0.9",
+        "gitbook-plugin-search": "2.2.1",
+        "gitbook-plugin-sharing": "1.0.2",
+        "gitbook-plugin-summary": "1.1.0",
+        "gitbook-plugin-toc": "0.0.2"
     }
 }
