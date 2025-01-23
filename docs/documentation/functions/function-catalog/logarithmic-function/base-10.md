@@ -5,7 +5,7 @@ icon: hundred-points
 
 # Base 10
 
-### What is so important about base ten?
+## What is so important about base ten?
 
 The base we use in everyday life and counting; it acts as the common log for mot scientific, mathematics, and everyday things. The system of counting in which we used is base 10; it is what we use on a daily basis.&#x20;
 

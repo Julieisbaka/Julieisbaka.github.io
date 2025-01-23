@@ -14,6 +14,7 @@ Curiously, despite being named Leibniz's formula for pi, this formula was not ac
 {% endhint %}
 
 {% code title="Python implementation of the formula" lineNumbers="true" %}
+
 ```python
 import math
 
@@ -27,6 +28,7 @@ def leibniz_pi(n_terms: int) -> float:
 print(leibniz_pi(10_000))
 print(math.pi)
 ```
+
 {% endcode %}
 
 ## Proof

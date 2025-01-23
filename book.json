@@ -21,11 +21,11 @@
     "hide-published-with",
     "livereload",
     "advanced-emoji",
-    "pwa",
     "edit-link",
     "footer",
     "language-picker",
-    "fontsettings"
+    "fontsettings",
+    "summary"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -48,7 +48,7 @@
       "label": "Edit this page"
     },
     "footer": {
-      "copyright": "© 2024 Casper Schorr",
+      "copyright": "© 2025 Casper Schorr",
       "markdown": true
     },
     "language-picker": {

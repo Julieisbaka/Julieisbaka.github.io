@@ -17,6 +17,7 @@ layout:
 # Fibonacci sequence
 
 {% code title="Python Fibonacci sequence" lineNumbers="true" fullWidth="true" %}
+
 ```python
 def fib(index):
 
@@ -28,6 +29,7 @@ def fib(index):
         return fib(index - 1) + fib(index - 2) # 1 + 0 = 1
    
 ```
+
 {% endcode %}
 
 The Fibonacci sequence is the list of numbers such that a number in the sequence is the sum of the of the two sequence numbers.

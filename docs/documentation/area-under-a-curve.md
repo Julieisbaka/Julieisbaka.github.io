@@ -7,7 +7,7 @@ icon: chart-mixed-up-circle-dollar
 
 # Area under a curve
 
-### Riemann sums
+## Riemann sums
 
 By splitting a curve into smaller rectangles and then adding up the sum of the area of the rectangles you are able to approximate the area under the curve. This accuracy of this method increases as you use more rectangles. To get a better approximation you can split the curve from the left and the right; then take the average of both sums.
 

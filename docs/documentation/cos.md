@@ -4,4 +4,3 @@ icon: angle-90
 ---
 
 # Cos
-
