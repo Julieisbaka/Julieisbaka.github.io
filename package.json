@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "dependencies": {
-        "gitbook": "^2.6.9",
+        "gitbook": "^3.2.3",
         "gitbook-cli": "2.3.2",
         "gitbook-plugin-ai-assistant": "^1.0.0"
     },
