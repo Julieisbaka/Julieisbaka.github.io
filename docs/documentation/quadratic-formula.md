@@ -1,5 +1,6 @@
 ---
 description: The formula used to solve for the roots of a quadratic equation.
+icon: square-root
 ---
 
 # Quadratic formula
