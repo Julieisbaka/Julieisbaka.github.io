@@ -25,7 +25,9 @@
     "footer",
     "language-picker",
     "fontsettings",
-    "summary"
+    "summary",
+    "ai-assistant",
+    "better-ui"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -62,6 +64,14 @@
           "lang": "es"
         }
       ]
+    },
+    "ai-assistant": {
+      "enabled": true,
+      "apiKey": "your-ai-api-key"
+    },
+    "better-ui": {
+      "theme": "modern",
+      "layout": "responsive"
     }
   }
 }

@@ -5,7 +5,9 @@
     "version": "1.0.0",
     "main": "index.js",
     "dependencies": {
-        "gitbook-cli": "2.3.2"
+        "gitbook": "^2.6.9",
+        "gitbook-cli": "2.3.2",
+        "gitbook-plugin-ai-assistant": "^1.0.0"
     },
     "devDependencies": {
         "gitbook-plugin-advanced-emoji": "^0.2.2",
