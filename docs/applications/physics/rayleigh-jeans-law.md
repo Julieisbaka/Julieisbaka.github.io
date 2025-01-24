@@ -10,7 +10,9 @@ description: >-
 
 The Rayleigh-Jeans Law is a classical approximation that provides an expression for the spectral energy distribution of electromagnetic radiation emitted by a blackbody in thermal equilibrium. This law holds true primarily in the long-wavelength (or low-frequency) limit. It can be derived from classical physics and is expressed mathematically by the equation:
 
-\[ I(\nu, T) = \frac{8\pi \nu^2 kT}{c^3} ]
+$$
+I(\nu, T) = \frac{8\pi \nu^2 kT}{c^3}
+$$
 
 Where:
 
