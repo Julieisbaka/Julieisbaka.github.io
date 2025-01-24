@@ -5,14 +5,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "dependencies": {
-<<<<<<< HEAD
         "gitbook": "3.2.3",
         "gitbook-cli": "2.3.2"
-=======
-        "gitbook": "^3.2.3",
-        "gitbook-cli": "2.3.2",
-        "gitbook-plugin-ai-assistant": "^1.0.0"
->>>>>>> 945824d12dbaf4f8bab26c49662ca7e531c18b46
     },
     "devDependencies": {
         "gitbook-plugin-advanced-emoji": "0.2.2",
@@ -21,7 +15,7 @@
         "gitbook-plugin-fontsettings": "2.0.0",
         "gitbook-plugin-footer": "0.1.0",
         "gitbook-plugin-github": "3.0.0",
-        "gitbook-plugin-hide-published-with": "^1.0.3",
+        "gitbook-plugin-hide-published-with": "1.0.3",
         "gitbook-plugin-highlight": "2.0.3",
         "gitbook-plugin-katex": "1.1.4",
         "gitbook-plugin-language-picker": "0.1.0",

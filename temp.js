@@ -2,8 +2,8 @@ import { GitBookAPI } from "@gitbook/api";
 import gitbookPluginHidePublishedWith from "gitbook-plugin-hide-published-with";
 import { GITBOOK_DEFAULT_ENDPOINT } from "@gitbook/api";
 import { GitBookAPIError } from "@gitbook/api";
-import { get } from "gitbook/lib/constants/defaultPlugins.js";
-import { generate } from "gitbook/lib/output";
+//import { get } from "gitbook/lib/constants/defaultPlugins";
+//import { generate } from "gitbook/lib/output";
 
 let gitbook = new GitBookAPI({
     endpoint: GITBOOK_DEFAULT_ENDPOINT,
@@ -114,7 +114,9 @@ gitbook.updateConfig({
         "better-ui": {
             "theme": "modern",
             "layout": "responsive"
-        }
+        },
+        "gitbook-plugin-toc": "0.0.2",
+        "gitbook-plugin-hide-published-with": "0.0.1"
     }
 }).then(() => {
     console.log("GitBook configuration updated successfully.");
