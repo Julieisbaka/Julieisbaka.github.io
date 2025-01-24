@@ -68,7 +68,8 @@
     "theme-api-integration",
     "theme-api-introduction",
     "theme-api-patterns",
-    "theme-api-principles"
+    "theme-api-principles",
+    "notes"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -94,6 +95,14 @@
         {
           "label": "Spanish",
           "lang": "es"
+        },
+        {
+          "label": "French",
+          "lang": "fr"
+        },
+        {
+          "label": "German",
+          "lang": "de"
         }
       ]
     },
@@ -110,6 +119,12 @@
     },
     "prism": {
       "css": true
+    },
+    "notes": {
+      "placeholder": "Add your notes here..."
+    },
+    "highlight": {
+      "theme": "default"
     }
   }
 }
