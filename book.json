@@ -26,8 +26,49 @@
     "language-picker",
     "fontsettings",
     "summary",
-    "ai-assistant",
-    "better-ui"
+    "sitemap",
+    "ga",
+    "lunr",
+    "prism",
+    "include-codeblock",
+    "anchors",
+    "back-to-top-button",
+    "expandable-chapters",
+    "page-toc",
+    "splitter",
+    "alerts",
+    "copy-code-button",
+    "github-buttons",
+    "github-issue-feedback",
+    "versions-select",
+    "theme-default",
+    "theme-api",
+    "theme-api-docs",
+    "theme-api-explorer",
+    "theme-api-reference",
+    "theme-api-resources",
+    "theme-api-security",
+    "theme-api-standards",
+    "theme-api-strategies",
+    "theme-api-testing",
+    "theme-api-tools",
+    "theme-api-tutorials",
+    "theme-api-usage",
+    "theme-api-walkthrough",
+    "theme-api-workflow",
+    "theme-api-advanced",
+    "theme-api-basics",
+    "theme-api-best-practices",
+    "theme-api-concepts",
+    "theme-api-design",
+    "theme-api-development",
+    "theme-api-documentation",
+    "theme-api-examples",
+    "theme-api-guidelines",
+    "theme-api-integration",
+    "theme-api-introduction",
+    "theme-api-patterns",
+    "theme-api-principles"
   ],
   "pluginsConfig": {
     "disqus": {
@@ -35,15 +76,6 @@
     },
     "github": {
       "url": "https://github.com/Julieisbaka/Julieisbaka.github.io"
-    },
-    "pwa": {
-      "cacheId": "mathwiki",
-      "runtimeCaching": [
-        {
-          "urlPattern": "/*",
-          "handler": "networkFirst"
-        }
-      ]
     },
     "edit-link": {
       "base": "https://github.com/Julieisbaka/Julieisbaka.github.io/edit/main/docs/",
@@ -65,13 +97,19 @@
         }
       ]
     },
-    "ai-assistant": {
-      "enabled": true,
-      "apiKey": "your-ai-api-key"
+    "sitemap": {
+      "hostname": "https://yourwebsite.com"
     },
-    "better-ui": {
-      "theme": "modern",
-      "layout": "responsive"
+    "ga": {
+      "token": "UA-XXXXXXXX-X"
+    },
+    "lunr": {
+      "languages": [
+        "en"
+      ]
+    },
+    "prism": {
+      "css": true
     }
   }
 }

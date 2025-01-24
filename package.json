@@ -12,6 +12,8 @@
         "gitbook-plugin-advanced-emoji": "0.2.2",
         "gitbook-plugin-disqus": "1.0.1",
         "gitbook-plugin-edit-link": "2.0.2",
+        "gitbook-plugin-include-codeblock": "3.2.3",
+        "gitbook-plugin-copy-code-button": "0.0.2",
         "gitbook-plugin-fontsettings": "2.0.0",
         "gitbook-plugin-footer": "0.1.0",
         "gitbook-plugin-github": "3.0.0",
