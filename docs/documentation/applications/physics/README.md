@@ -13,7 +13,7 @@ The most fundamental example of a derivative is distance/motion.
 
 ## Theorems
 
-### Newtons law of cooling
+### Newton's law of cooling
 
 “The rate of heat loss from a body is directly proportional to the difference in temperature between the body and its surroundings, given that the temperature difference is not large.”
 
@@ -23,6 +23,4 @@ $$
 T(t)=
 $$
 
-Where T(t) is the time dependent reaction for temperature, T is temperature, t is time, k is rate of cooling, and is
-
-The formula can be represented as the following differential equation
+Where T(t) is the time dependent reaction for temperature, T is temperature, t is time, k is rate of cooling, and is&#x20;

@@ -11,9 +11,9 @@ All embedded links and content within pages will be temporarily down. This issue
 
 **01 / 06 / 2025:**
 
-I am back from vacation and I have made some improvements. A list of changes is as follows
+I am back from vacation and I have made some improvements. A list of changes is as follows:
 
-* Fixed devcontainer by updating its JSON contents and by removing some files from the Gitignore
+* Fixed Devcontainer by updating its JSON contents and by removing some files from the Gitignore
 * Fixed some formatting, standardization, linting, and standard errors
 * Implemented more standardized formatting
 * Fixed Github settings

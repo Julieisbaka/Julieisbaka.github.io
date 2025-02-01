@@ -7,12 +7,14 @@ description: >-
 
 # Wiki how?
 
+{% code overflow="wrap" %}
 ```markdown
 This wiki is primarily composed in markdown. To keep with this style and to stay compatible
 with Gitbook I highly recommend writing documentation in markdown or markdown adjacent languages.
 The list of languages that you should limit use is as follows:
 
 ```
+{% endcode %}
 
 * Markdown + math based variants
 * Tex + popular and math based variants

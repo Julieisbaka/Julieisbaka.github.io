@@ -2,13 +2,15 @@
 description: >-
   Used to calculate black body radiation; more commonly known method for doing
   this is planck's law.
+icon: first-order-alt
+cover: >-
+  https://images.unsplash.com/photo-1663517768994-a65e6ab3a40a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxibGFjayUyMGJvZHklMjByYWRpYXRpb258ZW58MHx8fHwxNzM4NDM5ODYxfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Rayleigh-Jeans law
 
-#### Rayleigh-Jeans Law
-
-The Rayleigh-Jeans Law is a classical approximation that provides an expression for the spectral energy distribution of electromagnetic radiation emitted by a blackbody in thermal equilibrium. This law holds true primarily in the long-wavelength (or low-frequency) limit. It can be derived from classical physics and is expressed mathematically by the equation:
+Rayleigh-Jeans Law is a classical approximation that provides an expression for the spectral energy distribution of electromagnetic radiation emitted by a blackbody in thermal equilibrium. This law holds true primarily in the long-wavelength (or low-frequency) limit. It can be derived from classical physics and is expressed mathematically by the equation:
 
 $$
 I(\nu, T) = \frac{8\pi \nu^2 kT}{c^3}

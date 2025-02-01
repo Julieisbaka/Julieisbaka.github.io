@@ -25,14 +25,15 @@ In economics the symbol for pi is often used to profit, not the number.
 
 Understanding the total cost function is crucial for evaluating the overall expenditure in producing goods. By analyzing both variable and fixed costs, businesses can effectively strategize for optimal production levels.
 
-The variable cost, C\_v,  changes with the output level, representing expenses that vary with production volume, such as raw materials and labor. Meanwhile, the fixed cost, C\_f, remains constant regardless of the quantity produced, encompassing expenditures like rent and salaries.
+The variable cost, _`C_v`_,  changes with the output level, representing expenses that vary with production volume, such as raw materials and labor. Meanwhile, the fixed cost, _`C_f`_, remains constant regardless of the quantity produced, encompassing expenditures like rent and salaries.
 
-By comprehensively analyzing the total cost function,  C\_t , businesses can better manage resource allocation and make informed financial decisions that optimize profit margins, without conflating the symbol for profit, pi, with mathematical constants.
+By comprehensively analyzing the total cost function,  _`C_t`_ , businesses can better manage resource allocation and make informed financial decisions that optimize profit margins, without conflating the symbol for profit, pi, with mathematical constants.
 
-### The natural logarithm
+### [The natural logarithm](../../functions/function-catalog/logarithmic-function/natural-logarithm..md)
 
 $$
 \log_ex=\ln x
 $$
 
-The natural logarithm is a logarithm with the base of e, Euler's number. It has a lot of applications in economic modeling and graphing. For more information about the natural logarithm and its applications go to [this page.](../../functions/function-catalog/logarithmic-function/natural-logarithm..md)
+The natural logarithm is a logarithm with the base of e, Euler's number. It has a lot of applications in economic modeling and graphing.
+
