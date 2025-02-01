@@ -1,6 +1,9 @@
 ---
-description: Donations are essential to the livelihood of the Mathwiki, this wiki!
 icon: gift
+description: Donations are essential to the livelihood of the Mathwiki, this wiki!
+cover: >-
+  https://images.unsplash.com/photo-1504805572947-34fad45aed93?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxkb25hdGV8ZW58MHx8fHwxNzM4NDM2NTY5fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Donations and subscriptions

@@ -10,7 +10,7 @@ description: Contains a list of non regular or special functions.
 * [Iteration functions](iteration-functions/)
 * Ackermann function
 * Heavyweight function
-* [Total cost function](../../../../applications/economics/#the-total-cost-function)
+* [Total cost function](../../../applications/economics/#the-total-cost-function)
 * Beta function
 * Riemann - Zeta function
 * Gamma function

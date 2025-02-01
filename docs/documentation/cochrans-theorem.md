@@ -1,5 +1,6 @@
 ---
 description: The converse of Fisher's theorem.
+icon: martini-glass
 ---
 
 # Cochran's Theorem

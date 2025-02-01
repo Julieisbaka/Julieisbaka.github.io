@@ -35,4 +35,4 @@ $$
 \log_ex=\ln x
 $$
 
-The natural logarithm is a logarithm with the base of e, Euler's number. It has a lot of applications in economic modeling and graphing. For more information about the natural logarithm and its applications go to [this page.](../../documentation/functions/function-catalog/logarithmic-function/natural-logarithm..md)
+The natural logarithm is a logarithm with the base of e, Euler's number. It has a lot of applications in economic modeling and graphing. For more information about the natural logarithm and its applications go to [this page.](../../functions/function-catalog/logarithmic-function/natural-logarithm..md)
