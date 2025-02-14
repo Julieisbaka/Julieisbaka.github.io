@@ -65,4 +65,5 @@
   * [APIs](experiments/apis.md)
   * [Possible site movement](experiments/possible-site-movement.md)
   * [AI](experiments/ai.md)
+  * [Testing](experiments/testing.md)
 * [Donations and subscriptions](donations-and-subscriptions.md)
