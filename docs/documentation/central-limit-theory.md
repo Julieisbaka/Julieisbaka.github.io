@@ -1,6 +1,6 @@
 ---
-description: CLT (WIP)
 icon: empty-set
+description: Central Limit theorem (CLT) is related to statistical distributions.
 ---
 
 # Central Limit Theory
