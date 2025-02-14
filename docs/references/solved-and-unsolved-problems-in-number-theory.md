@@ -3,7 +3,6 @@ icon: first-order-alt
 description: >-
   Solved and Unsolved Problems in Number Theory (CHEL/297) 4th Edition by Daniel
   Shanks (Author)
-hidden: true
 cover: >-
   https://images.unsplash.com/photo-1511383026976-d80cd33706b4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxTb2x2ZWQlMjBhbmQlMjBVbnNvbHZlZCUyMFByb2JsZW1zJTIwaW4lMjBOdW1iZXIlMjBUaGVvcnl8ZW58MHx8fHwxNzM4NDQwODEwfDA&ixlib=rb-4.0.3&q=85
 coverY: 0

@@ -10,4 +10,4 @@ _Shanks, D. "Is the Quadratic Reciprocity Law a Deep Theorem?" §2.25 in_ [_Solv
 
 [^1]: [Buy the book.](https://www.amazon.com/exec/obidos/ASIN/0828412979/ref=nosim/ericstreasuretro)
 
-    [Other.](../solved-and-unsolved-problems-in-number-theory.md)
+    [Other.](solved-and-unsolved-problems-in-number-theory.md)
